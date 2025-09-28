@@ -25,7 +25,7 @@ aside {
     overflow-y: auto; /* scroll if content overflows */
 }
 
-/* Optional: give header & footer some styling */
+
 header,
 footer {
     padding: 1rem;
